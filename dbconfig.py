@@ -1,0 +1,5 @@
+host = 'ec2-54-246-185-161.eu-west-1.compute.amazonaws.com'
+database = 'd3chhhinvml73e'
+user = 'cfjglstwzxglhr'
+port = '5432'
+password = '1e75e042641b106db0a6a881d19d8fa4601dfa4c1c341fc00b565383f440d4a7'
